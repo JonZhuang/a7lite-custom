@@ -1,7 +1,7 @@
 # a7lite-custom
 ## My journey to flashing custom OS on an old a7. 
 
-For Many years, in years gone by, I was an avid enthuiast of flashing custom OS and kerbnels onto Android phones. This was, naturally, during the golden age of the hobby. There were countless options and the future seemed bright. Time and life wore me down to the insane time commitment this type of tinkering can demand and I let the years go by ... it seems most of community did the same. It's harder now. Less benefit for more work and the looming certainy that your efforts can and will be nerfed in a coming update. Bummer, guys. 
+For Many years, in years gone by, I was an avid enthuiast of flashing custom OS and kernels onto Android phones. This was, naturally, during the golden age of the hobby. There were countless options and the future seemed bright. Time and life wore me down to the insane time commitment this type of tinkering can demand and I let the years go by ... it seems most of community did the same. It's harder now. Less benefit for more work and the looming certainy that your efforts can and will be nerfed in a coming update. Bummer, guys. 
 
 Oh well, life moves on. I picked up an older tablet a little while back, anyways, and found myself really craving the form factor for my current life situation. Not too big to be a burden but bigger than even my big honkin phone (and, cruicially, not the black hole of bleak distracting notifications my primary phone oft must be). Anyways, this little tablet fits in my hand perfectly but it was SLOWWWWW. Still receiving updates to the newest OneUI interfaces seems like a bonus in theory, but the limited memory and storage just can't keep up with the demands of the newest firmware, so i decided to jump in and "quickly" flash an AOSP Rom to the thing and see if I couldn't make it a bit crisipier. 
 
@@ -36,12 +36,12 @@ It's a public repo and this should all be publicly available FOSS so if this hel
 ### In fact, no walkthrough I have found has been totally accurate (which is common enough, but more so on this bastard). So I am making this repo to keep it all together in my head and possibly release it to XDA when done so that it could help the 3-4 people who might try to do it themselves before this thing is just too old 😅
 
 # DOWNLOADS 
-|  LINK                                                | DESCRIPTION            | NOTES                       |
-| ---------------------------------------------------- | ---------------------- | --------------------------- | 
-| https://drive.proton.me/urls/KAW49A061W#qDMOcY1RKBQo | Stock Firmware 1       | KDO ver? got from SawFW     |
-| ---------------------------------------------------- | ---------------------- | --------------------------- |
-| https://drive.proton.me/urls/Y4M4W23PP0#c1SyhJnitsKy | Stock Firmware 2       | non-KDO? Whats the diff?    | ⚠️ 🤔💭 Best to figure this out sooner rather than later...I got them around the same time and forgot 
-| ---------------------------------------------------- | ---------------------- | --------------------------- |
+|  LINK                                                | DESCRIPTION            | NOTES                           |
+| ---------------------------------------------------- | ---------------------- | ------------------------------- | 
+| https://drive.proton.me/urls/KAW49A061W#qDMOcY1RKBQo | Stock Firmware 1       | KooDoo version. As original     |
+| https://drive.proton.me/urls/Y4M4W23PP0#c1SyhJnitsKy | Stock Firmware 2       | non-KooDoo? Will this work??    | 
+
+
 
 
 
